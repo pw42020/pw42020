@@ -9,17 +9,6 @@ I'm a **Software Engineer** with a passion for building high-performance systems
 - **C++**
 - **CUDA**
 
-## 🌟 Featured Projects
-
-- [Stridesync](https://github.com/pw42020/stridesync)  
-  *My original project for stride synchronization, combining signal processing and robust engineering.*
-
-- [HackUMass X](https://github.com/pw42020/HackUMassX)  
-  *My contribution to the HackUMass X hackathon—innovative and collaborative tech at its best.*
-
-- [Insightly](https://github.com/pw42020/insightly)  
-  *A data-driven repository focused on actionable insights and analytics.*
-
 ## 🏃‍♂️ Outside of Tech
 
 When I'm not coding, you'll find me:
