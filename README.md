@@ -18,7 +18,3 @@ When I'm not coding, you'll find me:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pwalsh4/)
-
----
-
-*Let’s connect and build something awesome together!*
