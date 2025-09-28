@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick Walsh
 
-I'm a **Software Engineer** with a passion for building high-performance systems, innovative solutions, and impactful projects. Whether it's signal processing, scaling with CUDA, or writing clean Python and C++ code, I thrive on technical challenges and continuous learning.
+I'm a **Software Engineer** with a passion for building high-performance systems, innovative solutions, and impactful projects. I thrive on technical challenges and continuous learning in signal processing, CUDA development, and scalable, reliable Python and C++ software.
 
 ## 🚀 Top Skills
 - **Python**
